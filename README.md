@@ -29,7 +29,7 @@ As a  **Data Analyst** and **BI Analyst**, I'm a passionate about turning comple
 </p>
 
 ##  Get in Touch
-I am always open to Data Analytics gigs, wether it's a project or a conversation about tech, don't hesitate to get in touch
+I am always open to Data Analytics gigs, whether it's a project or a conversation about tech, don't hesitate to get in touch
 
 ### Thank you for visiting my profile! 🌟
 
