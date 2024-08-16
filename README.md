@@ -1,7 +1,7 @@
 # 👋Hello, I'm Elizabeth Oluwafemi
 
 # ABOUT ME
-As a  **Data Analyst** and **BI Analyst**, I'm a passionate about turning complex data into actionable insighits. With Proficiency in  **Excel**, **Power BI**, **Python**, and **SQL**, I specialize in translating raw data into strategic business decisions, I enjoy creating visualizations that not only convey information but also tell compelling stories. My goal is to continuously enhance my expertise in data analytics and business intelligence, focusing on innovative techniques to solve complex challenges. I strive to develop solutions that optimize business processes, improve decision-making and create measurable impact for organizations
+As a  **Data Analyst** and **BI Analyst**, I'm a passionate about turning complex data into actionable insights. With Proficiency in  **Excel**, **Power BI**, **Python**, and **SQL**, I specialize in translating raw data into strategic business decisions, I enjoy creating visualizations that not only convey information but also tell compelling stories. My goal is to continuously enhance my expertise in data analytics and business intelligence, focusing on innovative techniques to solve complex challenges. I strive to develop solutions that optimize business processes, improve decision-making and create measurable impact for organizations
 -------------------
 ## 🛠️ Technologies & Skills
 <p align="left">
