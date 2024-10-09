@@ -17,7 +17,7 @@ As a  **Data Analyst** and **BI Analyst**, I'm a passionate about turning comple
 
 Feel free to connect with me on LinkedIn!
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat-square)](https://www.linkedin.com/in/ademola-obisesan-psm-0b0b88/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat-square)](https://www.linkedin.com/in/ademola-obisesan-psm-0b0b88210?)
 
 
 
