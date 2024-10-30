@@ -15,14 +15,18 @@ As a  **Data Analyst** and **BI Analyst**, I'm a passionate about turning comple
   -------------
 ## 📫 Connect with Me
 
-Feel free to connect with me on LinkedIn!
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat-square)](https://www.linkedin.com/in/ademola-obisesan-psm-0b0b88210?)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat-square)](https://www.linkedin.com/in/elizabeth-oluwafemi-2b3b722b0)
+[![Twitter Profile](https://img.shields.io/badge/Twitter-Connect%20with%20Me-blue?style=flat-square&logo=twitter)](https://x.com/_liza632)
 
+## 💼 Portfolio
 
+Explore my portfolio and recent projects here: [My Portfolio](https://elizabetholuwafemi.github.io/Eliza.github.io/)
 
-##  Get in Touch
-I am always open to Data Analytics gigs, whether it's a project or a conversation about tech, don't hesitate to get in touch
+---
+
+## 📬 Get in Touch
+I am always open to data analytics gigs! Whether it's a project or a conversation about tech, don't hesitate to reach out.
 
 ### Thank you for visiting my profile! 🌟
 
